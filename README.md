@@ -15,7 +15,7 @@ Up to **x2.4 faster** than the official snap-coin miner on the same hardware.
 
 Download the zip and extract the binary matching your CPU:
 
-- `snap-coin-miner-optimized-zen3` — (Zen2)
+- `snap-coin-miner-optimized-zen2` — (Zen2)
 - `snap-coin-miner-optimized-zen3` — Ryzen 5xxx (Zen3)
 - `snap-coin-miner-optimized-zen4` — Ryzen 7xxx (Zen4)
 - `snap-coin-miner-optimized-zen5` — Ryzen 9xxx (Zen5)
