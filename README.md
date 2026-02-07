@@ -1,6 +1,6 @@
 # Snap Coin Optimized Miner
 
-High-performance miner for Snap Coin, optimized for AMD Ryzen processors (Zen3/Zen4/Zen5).
+High-performance miner for Snap Coin, optimized for AMD Ryzen processors (Zen2, Zen3/Zen4/Zen5).
 
 ## Performance
 
@@ -73,7 +73,7 @@ This miner includes a **3% dev fee**. This means 3% of mining time goes to the d
 ## Compatibility
 
 - **OS**: Linux (Ubuntu 22.04+, Debian 12+)
-- **CPU**: AMD Ryzen (Zen3, Zen4, Zen5)
+- **CPU**: AMD Ryzen (Zen2, Zen3, Zen4, Zen5)
 - **RAM**: 4 GB minimum per instance
 
 ## License
