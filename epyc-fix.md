@@ -28,3 +28,14 @@ sudo ./snap-coin-miner-optimized-zen2 (or zen3,4,5 depending on your cpu)
 No need for `--no-hugepages` anymore. You should get better performance with huge pages enabled.
 
 **To make it persistent across reboots**, add the echo commands to `/etc/rc.local` or create a systemd service.
+
+
+NOTE:
+Some users reported better performance by setting the thread count manually in miner.toml instead of using -1 (auto-detect).
+
+Try setting the exact number of threads in your miner.toml:
+
+[threads]
+count = 192
+
+(replace 192 with your actual thread count from nproc)
