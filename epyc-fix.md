@@ -22,7 +22,7 @@ If you have more nodes (node2, node3...), do the same for each one.
 **Step 3: Launch the miner normally**
 
 ```bash
-sudo ./snap-coin-miner-optimized-zen2
+sudo ./snap-coin-miner-optimized-zen2 (or zen3,4,5 depending on your cpu)
 ```
 
 No need for `--no-hugepages` anymore. You should get better performance with huge pages enabled.
